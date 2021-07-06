@@ -1,0 +1,5 @@
+futures
+google-api-python-client
+google-cloud-pubsub
+google-cloud-storage
+requests
